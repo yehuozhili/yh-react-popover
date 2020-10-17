@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yh-react-popover/static/css/main.4c12f7af.chunk.css",
+    "main.js": "/yh-react-popover/static/js/main.5e61491e.chunk.js",
+    "main.js.map": "/yh-react-popover/static/js/main.5e61491e.chunk.js.map",
+    "runtime-main.js": "/yh-react-popover/static/js/runtime-main.0424cdcd.js",
+    "runtime-main.js.map": "/yh-react-popover/static/js/runtime-main.0424cdcd.js.map",
+    "static/js/2.3a953665.chunk.js": "/yh-react-popover/static/js/2.3a953665.chunk.js",
+    "static/js/2.3a953665.chunk.js.map": "/yh-react-popover/static/js/2.3a953665.chunk.js.map",
+    "index.html": "/yh-react-popover/index.html",
+    "precache-manifest.d1a5170ab2abcb2cd6c6dc784fb3e74a.js": "/yh-react-popover/precache-manifest.d1a5170ab2abcb2cd6c6dc784fb3e74a.js",
+    "service-worker.js": "/yh-react-popover/service-worker.js",
+    "static/css/main.4c12f7af.chunk.css.map": "/yh-react-popover/static/css/main.4c12f7af.chunk.css.map",
+    "static/js/2.3a953665.chunk.js.LICENSE.txt": "/yh-react-popover/static/js/2.3a953665.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0424cdcd.js",
+    "static/js/2.3a953665.chunk.js",
+    "static/css/main.4c12f7af.chunk.css",
+    "static/js/main.5e61491e.chunk.js"
+  ]
+}
